@@ -27,7 +27,6 @@ jobs:
           target-branch: 'main'
           minor-wording: '[MINOR]'
           major-wording: '[MAJOR]'
-          patch-wording: '[PATCH]'  
           rc-wording: '[ALPHA]'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
