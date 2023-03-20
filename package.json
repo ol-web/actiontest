@@ -16,5 +16,8 @@
   "homepage": "https://github.com/ol-web/actiontest#readme",
   "files": [
     "index.js"
-  ]
+  ],
+  "dependencies": {
+    "times-in-milliseconds": "^0.0.3"
+  }
 }
