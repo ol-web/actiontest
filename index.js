@@ -1,6 +1,6 @@
-
 const obj = {
-  key: 32
-}
+  key: 32,
+  ale: 2,
+};
 
-module.exports = obj
+module.exports = obj;
